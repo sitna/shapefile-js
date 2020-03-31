@@ -1,11 +1,6 @@
 {
-<<<<<<< Updated upstream
   "name": "@sitna/shpjs",
-  "version": "3.4.2",
-=======
-  "name": "shpjs",
   "version": "3.4.3",
->>>>>>> Stashed changes
   "description": "A binary shapefile loader, for javascript. Not many caveats",
   "main": "lib/index.js",
   "repository": {
