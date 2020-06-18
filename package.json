@@ -1,6 +1,6 @@
 {
   "name": "@sitna/shpjs",
-  "version": "3.4.6",
+  "version": "3.4.8",
   "description": "A binary shapefile loader, for javascript. Not many caveats",
   "main": "lib/index.js",
   "repository": {
@@ -28,10 +28,10 @@
     "uglifyjs": "^2.4.10"
   },
   "dependencies": {
-    "@sitna/parsedbf": "^1.0.1",
+    "@sitna/parsedbf": "^1.0.2",
     "jszip": "^2.4.0",
     "lie": "^3.0.1",
-    "lru-cache": "^2.7.0",    
+    "lru-cache": "^2.7.0",
     "proj4": "^2.1.4"
   },
   "browser": {

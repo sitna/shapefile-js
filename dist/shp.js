@@ -329,7 +329,7 @@ module.exports = function(buffer) {
 
 },{"jszip":20}],4:[function(require,module,exports){
 module.exports = createDecoder;
-var regexIso = /^8(\d{3})\-{0,1}(\d{0,2})$/m;
+var regexIso = /^(8\d{3})\-{0,1}(\d{0,1})$/m;
 var regex = /^(?:ASNI\s)?(\d{0,4})$/m;
 function createDecoder(encoding) {
   if (!encoding) {
